@@ -15,11 +15,23 @@ odev1/
 
 ## Veri Seti
 
-[Veri seti hakkında bilgi buraya eklenecek]
+Kaynak: Kaggle - Bank Transaction Data
+Boyut: 6 MB
 
 ## Kurulum
 
-Projeyi çalıştırmak için gerekli kütüphaneler:
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+matplotlib
+seaborn
+re
+collections
+ast
+shutil
+ipython
 
 ```bash
 pip install -r requirements.txt
