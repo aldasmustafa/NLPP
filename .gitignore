@@ -32,8 +32,14 @@ ENV/
 env.bak/
 venv.bak/
 
-# Model dosyaları (büyük olabilirler)
+# Model dosyaları ve büyük veri dosyaları
 # models/
+
+# Büyük CSV dosyaları
+**/data/processed/tfidf_*.csv
+**/tfidf_*.csv
+
+# 100MB'dan büyük diğer dosyalar
 
 # VS Code
 .vscode/
