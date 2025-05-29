@@ -1,0 +1,441 @@
+{
+    "sample_text": {
+        "sample_index": 86377,
+        "stemmed_sample_text": "irctc corpor offic ac",
+        "lemmatized_sample_text": "irctc corporate office ac"
+    },
+    "model_results": {
+        "stemmed_cbow_win2_dim100": [
+            [
+                113102,
+                0.9889382719993591,
+                "indian oil corpor lt"
+            ],
+            [
+                113103,
+                0.9889382719993591,
+                "indian oil corpor lt"
+            ],
+            [
+                113104,
+                0.9889382719993591,
+                "indian oil corpor lt"
+            ],
+            [
+                113114,
+                0.9889382719993591,
+                "indian oil corpor lt"
+            ],
+            [
+                113115,
+                0.9889382719993591,
+                "indian oil corpor lt"
+            ]
+        ],
+        "stemmed_skipgram_win2_dim100": [
+            [
+                93193,
+                0.9914591908454895,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9914591908454895,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9914591908454895,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9914591908454895,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9914591908454895,
+                "bidderboy corpor"
+            ]
+        ],
+        "stemmed_cbow_win4_dim100": [
+            [
+                93193,
+                0.9874072670936584,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9874072670936584,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9874072670936584,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9874072670936584,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9874072670936584,
+                "bidderboy corpor"
+            ]
+        ],
+        "stemmed_skipgram_win4_dim100": [
+            [
+                93193,
+                0.9906876087188721,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9906876087188721,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9906876087188721,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9906876087188721,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9906876087188721,
+                "bidderboy corpor"
+            ]
+        ],
+        "stemmed_cbow_win2_dim300": [
+            [
+                113102,
+                0.9839301109313965,
+                "indian oil corpor lt"
+            ],
+            [
+                113103,
+                0.9839301109313965,
+                "indian oil corpor lt"
+            ],
+            [
+                113104,
+                0.9839301109313965,
+                "indian oil corpor lt"
+            ],
+            [
+                113114,
+                0.9839301109313965,
+                "indian oil corpor lt"
+            ],
+            [
+                113115,
+                0.9839301109313965,
+                "indian oil corpor lt"
+            ]
+        ],
+        "stemmed_skipgram_win2_dim300": [
+            [
+                93193,
+                0.9908367991447449,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9908367991447449,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9908367991447449,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9908367991447449,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9908367991447449,
+                "bidderboy corpor"
+            ]
+        ],
+        "stemmed_cbow_win4_dim300": [
+            [
+                93193,
+                0.9916386604309082,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9916386604309082,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9916386604309082,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9916386604309082,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9916386604309082,
+                "bidderboy corpor"
+            ]
+        ],
+        "stemmed_skipgram_win4_dim300": [
+            [
+                93193,
+                0.9919914603233337,
+                "bidderboy corpor"
+            ],
+            [
+                93526,
+                0.9919914603233337,
+                "bidderboy corpor"
+            ],
+            [
+                93729,
+                0.9919914603233337,
+                "bidderboy corpor"
+            ],
+            [
+                93820,
+                0.9919914603233337,
+                "bidderboy corpor"
+            ],
+            [
+                94209,
+                0.9919914603233337,
+                "bidderboy corpor"
+            ]
+        ],
+        "lemmatized_cbow_win2_dim100": [
+            [
+                31383,
+                0.9611743688583374,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9590128660202026,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9440351128578186,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8671553134918213,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8671553134918213,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_skipgram_win2_dim100": [
+            [
+                31383,
+                0.9839929938316345,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9823830723762512,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9586318135261536,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8882676959037781,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8882676959037781,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_cbow_win4_dim100": [
+            [
+                31383,
+                0.986393392086029,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9857017993927002,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9820149540901184,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8891055583953857,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8891055583953857,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_skipgram_win4_dim100": [
+            [
+                31383,
+                0.987796425819397,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9875537157058716,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9623768329620361,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8975410461425781,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8975410461425781,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_cbow_win2_dim300": [
+            [
+                31383,
+                0.9801375865936279,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9785875678062439,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9643096327781677,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.880147397518158,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.880147397518158,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_skipgram_win2_dim300": [
+            [
+                31383,
+                0.9792056679725647,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9788115620613098,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9620100259780884,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8893460035324097,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8893460035324097,
+                "neft 000040875666 irctc c"
+            ]
+        ],
+        "lemmatized_cbow_win4_dim300": [
+            [
+                31383,
+                0.9873941540718079,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9873241186141968,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9637401700019836,
+                "oasis corporate training"
+            ],
+            [
+                27545,
+                0.9181285500526428,
+                "vaishanvi air conditioner"
+            ],
+            [
+                107532,
+                0.896751344203949,
+                "neft 000028094933 irctc c"
+            ]
+        ],
+        "lemmatized_skipgram_win4_dim300": [
+            [
+                31383,
+                0.9909893870353699,
+                "vaishnavi ac"
+            ],
+            [
+                29190,
+                0.9900618195533752,
+                "vaishanvi ac"
+            ],
+            [
+                29152,
+                0.9737049341201782,
+                "oasis corporate training"
+            ],
+            [
+                107532,
+                0.8933278918266296,
+                "neft 000028094933 irctc c"
+            ],
+            [
+                110475,
+                0.8933278918266296,
+                "neft 000040875666 irctc c"
+            ]
+        ]
+    }
+}

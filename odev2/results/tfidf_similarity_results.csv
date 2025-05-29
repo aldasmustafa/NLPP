@@ -1,0 +1,11 @@
+Model,Rank,Index,Similarity,Text
+TF-IDF Stemmed,1,29190,0.3789128313595909,vaishanvi ac
+TF-IDF Stemmed,2,31383,0.3789128313595909,vaishnavi ac
+TF-IDF Stemmed,3,29152,0.36943555361353586,oasi corpor train
+TF-IDF Stemmed,4,31541,0.36943555361353586,pahuja corpor
+TF-IDF Stemmed,5,107532,0.3218970367694437,neft 000028094933 irctc c
+TF-IDF Lemmatized,1,29152,0.37805249355643844,oasis corporate training
+TF-IDF Lemmatized,2,29190,0.37749701250318785,vaishanvi ac
+TF-IDF Lemmatized,3,31383,0.37749701250318785,vaishnavi ac
+TF-IDF Lemmatized,4,107532,0.3206942590940528,neft 000028094933 irctc c
+TF-IDF Lemmatized,5,110475,0.3206942590940528,neft 000040875666 irctc c

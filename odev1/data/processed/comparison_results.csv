@@ -1,0 +1,4 @@
+Veri Tipi,Toplam Token Sayısı,Benzersiz Token Sayısı,Çıkarılan Token Yüzdesi,Benzersiz Token Azalma Yüzdesi
+Ham Veri,313723,38785,0.0,0.0
+Stemming Sonrası,402326,40711,-28.24243042429149,-4.965837308237721
+Lemmatization Sonrası,402326,40762,-28.24243042429149,-5.097331442568003

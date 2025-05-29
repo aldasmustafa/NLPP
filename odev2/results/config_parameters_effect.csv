@@ -1,0 +1,9 @@
+Parameter,Value,Average_Score
+model_type,stemmed,4.300000000000001
+model_type,lemmatized,4.300000000000001
+algorithm,cbow,4.2
+algorithm,skipgram,4.4
+window,win2,4.300000000000001
+window,win4,4.300000000000001
+dim,dim100,4.300000000000001
+dim,dim300,4.300000000000001
