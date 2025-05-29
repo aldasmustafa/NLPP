@@ -88,7 +88,6 @@ nltk.download('wordnet')
 
 ## Nasıl Çalıştırılır
 
-1. Öncelikle veri setinin işlenmiş olduğundan emin olun. Eğer Ödev 1'i tamamladıysanız, işlenmiş veriler zaten hazırdır.
 
 2. TF-IDF benzerlik analizi için:
    ```bash
